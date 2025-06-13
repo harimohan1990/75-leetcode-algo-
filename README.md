@@ -1,4 +1,4 @@
-# 75-leetcode-algo
+# 75-leetcode-algo-with pseudo code no programming involve
 
 Here’s a **deep explanation with pseudo code**, **algorithm**, **time**, and **space complexity** for each of the 9 problems:
 
